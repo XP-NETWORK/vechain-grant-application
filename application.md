@@ -22,7 +22,7 @@
   - Velas
   - xDai
   - Fuse
-- VeChain is an important player in the blockchain industry. It occupies the #33 place in the chain rancking and its token has 0.25% of the market dominance. But much more importantly, VeChain has a rich NFT ecosystem populated with professionally developed Marketplaces, successful NFT projects, talented [Artists](https://twitter.com/VETlieber) and content providers.
+- VeChain is an important player in the blockchain industry. It occupies the 23 place in the chain ranking and its token has 0.25% of the market dominance. But much more importantly, VeChain has a rich NFT ecosystem populated with professionally developed Marketplaces, successful NFT projects, talented [Artists](https://twitter.com/VETlieber) and content providers.
 - The most prominent NFT Marketplaces are:
   - [World of V](https://marketplace.worldofv.art/)
   - [VeSea](https://vesea.io/)
