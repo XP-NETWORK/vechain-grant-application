@@ -62,9 +62,9 @@ The UI of the bridge is intuitive and does not require additional training. But 
 ![View-2](VeChainApplication/2.png)
 3. The wallet selection pop-up window suggests a range of wallets supported by the bridge. The wallets relevant to the departure chain are active and displayed with bright colors. The wallets relevant for other chains are inactive and therefore greyed out.
 ![View-3](VeChainApplication/3.png)
-3. Out NFT-Indexer lists the NFTs a user Owns on the chain of departure
+3. Our NFT-Indexer lists the NFTs a user Owns on the chain of departure
 ![View-4](VeChainApplication/4.png)
-4. 
+
 
 ## `API specifications of the core functionality`
   Our JavaScript library allows to use the bridge in the background of any dApp:<br>
@@ -227,7 +227,22 @@ Cross-chain bridging is one of the most active areas of blockchain development a
 | NFT OmniBridge |	xDAI, Ethereum |	Early beta
 | SeaScape	| BSC, Moonbeam, Rinkeby testnet |	Yes
 
+`Competitive Advantages`
+Compared to all the bridging solutions described above, XP.network has a number of important advantages:
 
+1) The first bridge designed exclusively for NFTs, tackling every aspect of asset transition and compatibility across multiple protocols;<br/>
+2) A much wider range of supported blockchains: any chain can be connected to the bridge;<br/>
+3) Linking EVM to a range of non-EVM chains with fundamentally different tech stacks, such as Elrond, Solana, Cardano, Algorand, etc.<br/>
+4) A simple and seamless UI for minting, transfering, and exploring NFTs;<br/>
+5) Attractively low transaction fees, payable in the currency of the origin blockchain (ETH, BNB, SOL etc.);<br/>
+6) Highly scalable: the capacity of the bridge is limited only by the TPS of the bridged chains;<br/>
+7) Possibility to mint NFTs on multiple chains from an easy-to-use UI;<br/>
+8) Superior security and reliability: a multilayer security system capable of preventing all common types of attacks, with no single points of failure;<br/>
+9) A more versatile technological stack, and provide the same level of security and reliability;<br/>
+10) Possibility to integrate the bridge with any NFT dApp, allowing users to trade and exchange NFTs the way they are used to, while the bridge operates behind the scenes.<br/>
+11) Possibility of transferring NFTs in Batches<br>
+12) Possibility of transferring NFT smart contract logic<br>
+13) Option of choosing the smart contract to mint wrapped NFTs with on the target chain<br>
 
 ## `Team`
 
