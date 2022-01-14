@@ -22,7 +22,7 @@
   - Velas
   - xDai
   - Fuse
-- VeChain is an important player in the blockchain industry. It occupies the 23 place in the chain ranking and its token has 0.25% of the market dominance. But much more importantly, VeChain has a rich NFT ecosystem populated with professionally developed Marketplaces, successful NFT projects, talented [Artists](https://twitter.com/VETlieber) and content providers.
+- VeChain is an important player in the blockchain industry. It occupies the #23 place in the chain ranking and its token has 0.25% of the market dominance. But much more importantly, VeChain has a rich NFT ecosystem populated with professionally developed Marketplaces, successful NFT projects, talented [Artists](https://twitter.com/VETlieber) and content providers.
 - The most prominent NFT Marketplaces are:
   - [World of V](https://marketplace.worldofv.art/)
   - [VeSea](https://vesea.io/)
@@ -57,13 +57,17 @@ The UI of the bridge is intuitive and does not require additional training. But 
 ## `MOCKUPS:`
 
 1. Initial view of the [bridge](https://bridge.xp.network/#) allows to choose the chains of departure & destination.
-![View-1](VeChainApplication/1.png)
-2. A useer can chose from a range of EVM and Non-Evm chains by clicking an element of the list or type the name of the chain of interest in the search bar.
-![View-2](VeChainApplication/2.png)
+![View-1](https://github.com/XP-NETWORK/vechain-grant-application/blob/main/VeChainApplication//1.png)
+
+2. A useer can choose from a range of EVM and Non-Evm chains by clicking an element of the list or type the name of the chain of interest in the search bar.
+   
+![View-2](https://github.com/XP-NETWORK/vechain-grant-application/blob/main/VeChainApplication//2.png)
+
 3. The wallet selection pop-up window suggests a range of wallets supported by the bridge. The wallets relevant to the departure chain are active and displayed with bright colors. The wallets relevant for other chains are inactive and therefore greyed out.
-![View-3](VeChainApplication/3.png)
-3. Our NFT-Indexer lists the NFTs a user Owns on the chain of departure
-![View-4](VeChainApplication/4.png)
+![View-3](https://github.com/XP-NETWORK/vechain-grant-application/blob/main/VeChainApplication//3.png)
+
+4. Our NFT-Indexer lists the NFTs a user Owns on the chain of departure
+![View-4](https://github.com/XP-NETWORK/vechain-grant-application/blob/main/VeChainApplication//4.png)
 
 
 ## `API specifications of the core functionality`
@@ -290,6 +294,7 @@ For Tezos our bridge will be the only one supporting NFTs.
 ### Team LinkedIn Profiles
 
 - [Dima Briukhanov - CTO](https://www.linkedin.com/in/dmitry-briukhanov-60b2ab45/)
+- [Dima Ulianov - CBO](https://www.linkedin.com/in/dimaulyanov/)
 - [Rupansh Sekar Blockchain](https://www.linkedin.com/in/rupansh-sekar-10941b16a/)
 - [Sumit Kumar - Blockchain](https://www.linkedin.com/in/imsk17/)
 - [Xueming Zheng - Blockchain](https://www.linkedin.com/in/xuemingzheng/)
@@ -326,7 +331,7 @@ For Tezos our bridge will be the only one supporting NFTs.
 | 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that can interact with the deployed smart contracts and backend service. |
 | 0c. | Testing Guide | The code will have proper unit-test coverage 85% to ensure functionality and robustness. In the guide, we will describe how to run these tests |
 | 1 | Smart Contracts | We will develop smart contracts that will:<br>1. Support ERC-721<br>2. Support ERC-1155<br>3. Freeze/Unfreeze Native NFTs<br>4. Mint/Burn wrapped NFTs<br>5. Pay the TX fees on the target chain in native tokens<br>6. Send / Receive NFTs in batches |
-| 2 | Validators | 1. Setting up the VeChain Node for listening to the events<br>2. Adding the logic to the validators |
+| 2 | Validators | 1. Setting up the VeChain Node for listening to the events (Maintainance costs EUR 200/month)<br>2. Adding the logic to the validators |
 | 3 | Backend | Integration of VeChain in the:<br>1. NFT Index<br>2. TX Fee Estimator<br>3. Crypto-currency converter |
 | 4 | Frontend | Integration of VeChain in the:<br>1. User Interface<br> 2. Wallets (Metamask, TrustWallet, WalletConnect) |
 
@@ -352,5 +357,5 @@ Any additional information that you think is relevant to this application that h
 
 Possible additional information to include:
 - By the time of writing 10+ blockchains have been successfully bridged.
-- We already received grants for integrating Velas & Fuse. Tezos has funded our integration and partially covered the smart contract auditing costs.
-- We applied for grants on Velas & Fuse.
+- We already received grants for integrating [Velas](https://twitter.com/xpnetwork_/status/1481294575746572289?s=21) & [IoTeX](https://community.iotex.io/t/quigon-multi-chain-nft-bridge/5988). Tezos has funded our integration and partially covered the smart contract auditing costs.
+- We applied for grants on Velas & [IoTeX](https://community.iotex.io/t/quigon-multi-chain-nft-bridge/5988).
